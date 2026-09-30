@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703650974 source:d:\code\c\28-checkprimev2\main.c
+	<stdio.h>
+	<stdlib.h>
+

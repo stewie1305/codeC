@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709114397 source:d:\code\c\46.1-comparestr\main.c
+	<stdio.h>
+	<stdlib.h>
+

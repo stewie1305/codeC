@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707187935 source:d:\code\c\42-lunarhomework\main.c
+	<stdio.h>
+	<stdlib.h>
+

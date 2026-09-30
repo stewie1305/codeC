@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708760644 source:d:\code\c\43.1-splice\main.c
+	<stdio.h>
+	<stdlib.h>
+

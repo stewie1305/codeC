@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709041409 source:d:\code\c\45-stringbase1\main.c
+	<stdio.h>
+	<stdlib.h>
+

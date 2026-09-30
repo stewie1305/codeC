@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703773504 source:d:\code\c\32-sumn\main.c
+	<stdio.h>
+	<stdlib.h>
+

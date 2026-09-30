@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703773124 source:d:\code\c\31-checkevenodd\main.c
+	<stdio.h>
+	<stdlib.h>
+

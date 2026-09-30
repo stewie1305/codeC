@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703787333 source:d:\code\c\31-geometricmean\main.c
+	<stdio.h>
+	<stdlib.h>
+

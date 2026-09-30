@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704821233 source:d:\code\c\33.1-arthmeticinarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704379937 source:d:\code\c\31-swapfunction\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704960519 source:d:\code\c\33.4-primeinarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

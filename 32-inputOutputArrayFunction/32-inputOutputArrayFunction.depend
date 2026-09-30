@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704810162 source:d:\code\c\32-inputoutputarrayfunction\main.c
+	<stdio.h>
+	<stdlib.h>
+

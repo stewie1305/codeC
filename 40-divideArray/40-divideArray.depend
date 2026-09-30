@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706187670 source:d:\code\c\40-dividearray\main.c
+	<stdio.h>
+	<stdlib.h>
+

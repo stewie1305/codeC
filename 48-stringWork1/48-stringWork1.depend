@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709216802 source:d:\code\c\48-stringwork1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

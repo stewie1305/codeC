@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706183981 source:d:\code\c\39-comparearray\main.c
+	<stdio.h>
+	<stdlib.h>
+
